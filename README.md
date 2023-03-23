@@ -1,6 +1,6 @@
 # After tax earnings
 
-In this repository you will a script, `income_analyzer.py`, and an executable notebook, `income_analysis.ipynb`, aiming to model a person's afer-tax earnings in a given progressive taxation system.
+In this repository you will find a script, `income_analyzer.py`, and an executable notebook, `income_analysis.ipynb`, aiming to model a person's afer-tax earnings in a given progressive taxation system.
 
 The executable notebook is currently filled in with the tax brackets and rates defining the progressive taxation system in Australia. Change these as desired to define different progressive taxation systems.
 
